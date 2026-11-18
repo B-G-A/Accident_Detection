@@ -1,4 +1,4 @@
-# 🚦 VisionGuard — AI-Powered Traffic Accident Detection System
+# Multi-Incident Accident Detection and Severity Grading Using YOLOv8 and Optical Flow Tracking 
 
 **VisionGuard** is a real-time traffic surveillance and accident detection system that detects road accidents, hazards, and anomalous driving behaviors from CCTV footage using deep learning, multi-object tracking, and computer vision techniques.
 
